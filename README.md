@@ -13,7 +13,7 @@
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
   <Strong> jaemin_0107@naver.com </Strong>
-</p><br>
+<br>
  <Strong> jaemini154@gmail.com </Strong>
 </p><br>
 <div align= "center">
